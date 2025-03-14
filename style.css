@@ -30,6 +30,7 @@ body{
 text-decoration: none;
 color: white;
 font-size: 17px;
+    margin:9px;
 }
 .navbar a::after{
     content: '';
